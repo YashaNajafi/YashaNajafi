@@ -30,14 +30,14 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://YashaNajafi.github.io/about_me" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-f70000?style=for-the-badge&logo=youtube&logoColor=f70000t=%22Yasha" alt="alsiam" />
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <!-- <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-0084c6?style=for-the-badge&logo=telegram&logoColor=239cd7=%22Yasha" alt="alsiam" />
  </a> -->
  <a href="https://twitter.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
