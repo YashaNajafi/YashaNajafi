@@ -70,8 +70,8 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/python-4380b1?style=for-the-badge&labelColor=black&logo=python&logoColor=4380b1)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Python](https://img.shields.io/badge/python-4380b1?style=for-the-badge&labelColor=black&logo=python&logoColor=4380b1)
+![C++](https://img.shields.io/badge/C++-4380b1?style=for-the-badge&labelColor=black&logo=c&logoColor=4380b1)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
