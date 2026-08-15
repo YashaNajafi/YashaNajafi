@@ -31744,8 +31744,7 @@
         "animationDuration": 1500,
         "selectedRepos": [
           "YN_Exchange",
-          "telethon-join-required",
-          "YashaNajafi"
+          "telethon-join-required"
         ],
         "repoViewMode": "list"
       },
