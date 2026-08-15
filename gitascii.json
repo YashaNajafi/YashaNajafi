@@ -1,5 +1,4 @@
 {
-  "username": "YashaNajafi",
   "widgets": [
     {
       "widgetId": "header",
@@ -31809,6 +31808,5 @@
     "themeMode": "dark",
     "templateStyle": "terminal"
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
