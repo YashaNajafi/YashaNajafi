@@ -98,3 +98,12 @@
 
 
 ![Al Yasha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashaNajafi&custom_title=Yasha%20Najafi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+<a href="https://www.gitascii.com">
+  <img
+    src="https://www.gitascii.com/api/YashaNajafi?v=1786785247209"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
