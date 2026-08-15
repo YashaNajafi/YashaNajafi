@@ -19,6 +19,25 @@
       "name": "Header Widget"
     },
     {
+      "instanceId": "widget_1786785556033",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 632
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
       "widgetId": "ascii-art",
       "position": {
         "x": 0,
@@ -31676,7 +31695,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 2,
+      "zIndex": 3,
       "instanceId": "widget_1786784249625_1",
       "name": "Ascii-art Widget"
     },
@@ -31693,45 +31712,15 @@
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 3,
+      "zIndex": 4,
       "instanceId": "widget_1786784249625_2",
       "name": "Terminal-info Widget"
-    },
-    {
-      "widgetId": "languages",
-      "position": {
-        "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 800,
-        "height": 176
-      },
-      "config": {
-        "animationType": "slide-up",
-        "animationPreviewKey": 13,
-        "hideBorder": false,
-        "hideDecorations": false,
-        "showTitle": true,
-        "langsLayout": "compact",
-        "showPercentage": false,
-        "hideLangsArr": [],
-        "hideLangs": "",
-        "animationDuration": 1500,
-        "lockAspectRatio": false,
-        "langsCount": 5
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1786784249625_3",
-      "name": "Languages Widget"
     },
     {
       "widgetId": "repositories",
       "position": {
         "x": 0,
-        "y": 558
+        "y": 506
       },
       "size": {
         "width": 800,
@@ -31750,7 +31739,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 5,
+      "zIndex": 6,
       "instanceId": "widget_1786784249625_4",
       "name": "Repositories Widget"
     },
@@ -31759,8 +31748,8 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 0,
-        "y": 830
+        "x": 10,
+        "y": 776
       },
       "size": {
         "width": 780,
@@ -31771,7 +31760,42 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 6
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1786785627201",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 386
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#b6a891",
+        "marqueeLangs": [
+          "python",
+          "git",
+          "sqlite",
+          "github",
+          "figma",
+          "vscode",
+          "cpp",
+          "py",
+          "html",
+          "css",
+          "dart",
+          "django"
+        ],
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
