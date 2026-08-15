@@ -31735,7 +31735,7 @@
       },
       "size": {
         "width": 800,
-        "height": 296
+        "height": 256
       },
       "config": {
         "repoCardHeight": 52,
@@ -31755,28 +31755,23 @@
       "name": "Repositories Widget"
     },
     {
-      "widgetId": "footer",
+      "instanceId": "widget_1786785493809",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
       "position": {
         "x": 0,
-        "y": 874
+        "y": 830
       },
       "size": {
-        "width": 800,
-        "height": 50
+        "width": 780,
+        "height": 240
       },
       "config": {
-        "showTitle": true,
-        "customTitle": "",
-        "animationType": "scan-lines",
-        "animationPreviewKey": 2,
-        "animationDuration": 600,
-        "animationEasing": "linear"
+        "accentColor": "#ffa657"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1786784249625_5",
-      "name": "Footer Widget"
+      "zIndex": 6
     }
   ],
   "globalStyles": {
