@@ -1,4 +1,5 @@
 {
+  "username": "YashaNajafi",
   "widgets": [
     {
       "widgetId": "header",
@@ -31795,6 +31796,66 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1786786295491",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1032
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1786786297935",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 400,
+        "y": 1032
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1786786440386",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1258
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "instagram",
+          "gmail"
+        ],
+        "label_github": "",
+        "renderMode": "multi",
+        "staticMode": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
     }
   ],
   "globalStyles": {
@@ -31808,5 +31869,6 @@
     "themeMode": "dark",
     "templateStyle": "terminal"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
